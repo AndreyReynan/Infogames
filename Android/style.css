@@ -1,0 +1,21 @@
+.nome{
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    border-radius: 5px;
+}
+.nome h1{
+    color: black;
+    font-family: arial;
+}
+.mais{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    font-family: arial;
+}
+.mais p{
+    font-size: 20px;
+}
